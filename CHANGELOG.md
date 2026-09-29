@@ -21,10 +21,6 @@ and the Sparkle appcast, unless overridden with the `release_notes` input.
 >
 > If your issue isn't fixed in this build, comment on it. Thank you to everyone who sent logs, recordings and crash reports.
 
-Thanks to your support, Thaw is now part of the Vercel Open Source Program.
-
-[![Vercel OSS Program](https://vercel.com/oss/program-badge-2026.svg)](https://vercel.com/open-source-program)
-
 > [!TIP]
 > **The short version**
 >
@@ -42,6 +38,10 @@ Thanks to your support, Thaw is now part of the Vercel Open Source Program.
 > - Thaw no longer reorders the menu bar around its own icons.
 > - Fast User Switching, AirDrop, Focus and Now Playing stay reachable.
 > - macOS's » button works again on notched MacBooks.
+
+Thanks to your support, Thaw is now part of the Vercel Open Source Program.
+
+[![Vercel OSS Program](https://vercel.com/oss/program-badge-2026.svg)](https://vercel.com/open-source-program)
 
 ### New: Thaw Bar Only
 
